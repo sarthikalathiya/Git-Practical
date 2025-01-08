@@ -1,0 +1,1 @@
+# this contains git practical information
