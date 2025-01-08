@@ -4,7 +4,7 @@
 
 - **step-1**: Create a branch from the develop
 - **step-2**: Add a commit message hook to the repo
-- **step-3**:
+- **step-3**: Perform multiple commits in the new branch
 - **step-4**:
 - **step-5**:
 - **step-6**:
