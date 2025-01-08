@@ -3,7 +3,7 @@
 ## Steps
 
 - **step-1**: Create a branch from the develop
-- **step-2**:
+- **step-2**: Add a commit message hook to the repo
 - **step-3**:
 - **step-4**:
 - **step-5**:
